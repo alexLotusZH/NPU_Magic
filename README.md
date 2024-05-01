@@ -12,3 +12,5 @@ Able to do pose detection on a single image or a live-stream video.
 
 ## Credits
 This project is based on the `RKNN Model Zoo` (https://github.com/airockchip/rknn_model_zoo)
+
+Requirements and wheel for rknntoolkit1.6.0 are provided in the repo.
